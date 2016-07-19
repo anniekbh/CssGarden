@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Galada);
+@import url(https://fonts.googleapis.com/css?family=Katibeh);
+@import url(https://fonts.googleapis.com/css?family=Jomhuria);
+
+body {
+	background-image: url(../315H.jpg);  
+}
+header{
+	 background-image: url(../179H.jpg);
+	 border-color:#268A9C;
+	 border-style:solid;
+     font-size: 20px;
+     border-radius: 2%;
+}
+h1 {
+	font-size: 7rem ;
+	font-family: 'Galada', cursive;
+	color:#E7F8A5;
+}
+h2 {
+	font-family: 'Katibeh', cursive;
+	font-size:4rem ;
+	color: #FBF2CB;
+}
+h3 {
+	font-family: 'Jomhuria', cursive;
+	font-size:4rem ;
+	color: #FBF2CB;
+}
+aside {
+	width: 400px;
+	height: 50px;
+	position: absolute;
+	right: 10%;
+	top: 80%;
+}
+.summary{
+	width: 400px;
+	height: 30px;
+	font-size: 20px;
+	font-family: Arial;
+}
+.preamble {
+	width: 300px;
+	height: 50px;
+}
+.explanation {
+	width: 300px;
+	height: 50px;
+}
+.participation {
+	width: 300px;
+	height: 50px;
+}
+.benefits {
+	width: 300px;
+	height: 50px;
+}
+.requirements {
+	width: 300px;
+	height: 50px;
+}
+footer {
+	width: 300px;
+	height: 50px;
+}
